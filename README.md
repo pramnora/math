@@ -24,7 +24,7 @@ Naturally, of course, there will also be included links to many other resources.
 ### Maths in general  
 
 KhanAcademy.org  
-- https:/www.khanacademy.org  
+- https://www.khanacademy.org  
 
 ### Geometrical Shapes  
 
