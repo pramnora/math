@@ -1,3 +1,22 @@
+/* Stylesheet for: prg-math...
+   CREATED: 21st May 2026 01:13 PM GMT
+   UPDATED: 21st May 2026 01:13 PM GMT
+*/
+
+html{
+ background-color:black;
+ color:white;   
+}
+
+body{
+ background-color:white;
+ color:black;   
+}
+
+nav,header,footer{
+ text-align:center;
+}
+
 /* Classes */  
     
 .clsDateTimeStamp{
