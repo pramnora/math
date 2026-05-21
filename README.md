@@ -21,8 +21,12 @@ Naturally, of course, there will also be included links to many other resources.
 
 ## Links  
 
+### Maths in general  
+
 KhanAcademy.org  
-- https:/www.khanacadmy.org  
+- https:/www.khanacademy.org  
+
+### Geometrical Shapes  
 
 Mathigon  
 - https://www.mathigon.com  
