@@ -17,9 +17,9 @@ body{
  color:black;   
 }
 
-nav{
- text-align:center;  
+nav
  width:50%;
+ margin:auto;
  background-color:yellow;  
 }
    
@@ -28,7 +28,7 @@ h1,footer{
  color:white;  
 }   
 
-header,footer{
+nav,header,footer{
  text-align:center;
 }
 
