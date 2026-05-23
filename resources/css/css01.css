@@ -2,7 +2,7 @@
    https://prg-math.netlify.com
 
    CREATED: 21st May 2026 01:13 PM GMT
-   UPDATED: 21st May 2026 01:13 PM GMT
+   UPDATED: 23rd May 2026 11:04 AM GMT
 */
 
 html{
@@ -12,27 +12,52 @@ html{
 }
 
 body{
- margin:10px;   
- background-color:white;
- color:black;   
 }
 
 nav{
+ padding:10px;
+ border-radius:15px 15px 0px 0px;
+}
+
+footer{
+ padding:10px;
+ border-radius:0px 0px 15px 15px;
+}
+
+nav,main,footer{
  width:50%;
- margin:auto;
- background-color:yellow;  
+ margin:auto; 
+}
+
+nav{
+ background-color:yellow;   
+ color:black; 
 }
    
-h1,footer{
- background-color:black;
- color:white;  
+footer{
+ background-color:silver;
+ color:grey;  
+}
+
+h2{
+ color:green;
 }   
+
+main{
+ padding:10px;
+ background-color:white;
+ color:black;
+}
 
 nav,header,footer{
  text-align:center;
 }
 
 /* Classes */  
+
+.clsPara{
+ text-indent:1cm;
+}
     
 .clsDateTimeStamp{
  color:red;
