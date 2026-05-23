@@ -1,7 +1,7 @@
 # math
 
 **Created**: *Thu 21st May 2026 09:18 AM GMT*  
-**Updated**: *Thu 21st May 2026 09:10 AM GMT*  
+**Updated**: *Sat 23rd May 2026 11:19 AM GMT*  
 
 -----
 
@@ -34,5 +34,5 @@ KhanAcademy.org
 ### Geometrical Shapes  
 
 Mathigon  
-- https://www.mathigon.com  
+- https://www.mathigon.org  
 
