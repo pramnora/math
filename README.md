@@ -21,10 +21,14 @@ Naturally, of course, there will also be included links to many other resources.
 
 ## Links  
 
+-----
+
 ### Link to this web  site...
 
 Netlify host...  
-- https://prg-math.netlify.app  
+- https://prg-math.netlify.app
+
+-----
 
 ### Maths in general  
 
